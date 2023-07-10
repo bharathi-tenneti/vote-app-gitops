@@ -12,6 +12,6 @@ images:
 - digest: sha256:a586db37e46c3944c91cd871f1bc01c031aa6e8925c619db0a5190e4cf717f0c
   name: quay.io/btenneti/vote-api
   newName: quay.io/btenneti/vote-api
-- digest: sha256:3091cbe5f608a752ed421b530b8f9c7ea8f5fe07e6cd17d4ffe009f89efe3b93
+- digest: sha256:bf2f55f81d3b97389325b165065a59674268ed2e0f1ab58a2407c4488a624e59
   name: quay.io/btenneti/vote-ui
   newName: quay.io/btenneti/vote-ui
